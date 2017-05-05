@@ -1,0 +1,42 @@
+td{
+    text-align:right;
+}
+
+
+.header{
+    background-color:#ffa600;
+    color:white;
+    text-align:center;
+    top:0px;
+    width:100%;
+    padding:5px;
+}
+form{
+    width:40%;
+    padding:30px;
+    border:1px solid #ffa600;
+    margin:5px auto;
+}
+.textInput{
+    margin-top:2px;
+    height:28px;
+    border:1px solid #ffa600;
+    font-size:16px;
+    padding:1px;
+    width:100%;
+}
+#error_msg{
+    width:50%;
+    margin:5px auto;
+    height:30px;
+    border:1px solid #ffa600;
+    background:#ffa600;
+    color:#ffa600;
+    text-align:center;
+    padding-top:10px;
+}
+
+
+h2{
+    color:#008080;
+}
